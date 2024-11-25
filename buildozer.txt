@@ -1,0 +1,2 @@
+#use this command at terminal to build buiodozer.spec#
+buildozer init
